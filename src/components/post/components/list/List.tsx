@@ -30,7 +30,6 @@ const List = ({
   const filteredData = value
     .map((article) => article)
     .sort((a, b) => Number(a.createdAt) - Number(b.createdAt));
-  console.log('🚀 ~ filteredData', filteredData);
 
   useEffect(() => {
     if (data) {

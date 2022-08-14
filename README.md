@@ -40,7 +40,8 @@ cp .env.sample .env
 `Attention`
 
 ```sh
-This application uses third part Auth0 for better UX authentication proccess. Please provide the information required above on your `.env` file.
+This application uses third part Auth0 for better UX authentication proccess.
+Please provide the information required above on your `.env` file.
 ```
 
 ## Available Scripts

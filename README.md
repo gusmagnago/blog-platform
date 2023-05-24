@@ -1,6 +1,6 @@
-# Getting Started with Weather App
+# Getting Started with Blog Platform
 
-The Bright Side is a plog posting platform where you can cread, read and then edi or delete your own article. You can also save other creators articles to your bookmark list for later.
+The Bright Side is a blog posting platform where you can cread, read and then edi or delete your own article. You can also save other creators articles to your bookmark list for later.
 
 ### Clone repository
 
